@@ -1,4 +1,2 @@
 # Hello_World
-My first repository
-
-This is my first edit
+Google Script repository for working with Canvas data
